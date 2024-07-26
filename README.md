@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work on my developing skills
 - 📫 How to reach me -message this number 01098718881
 - ⚡ I've learned c++ and oop.
-
+- 🏫 I'm Still first year student 
 <!---
 Jo2410/Jo2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
