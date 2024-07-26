@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jo ahmed khafagy 
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning MIT 6.006 introduction to Algorithms course.
-- 💞️ I’m looking to collaborate on my developing skills
+- 💞️ I’m looking to work on my developing skills
 - 📫 How to reach me -message this number 01098718881
 - ⚡ I've learned c++ and oop.
 
