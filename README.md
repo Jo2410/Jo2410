@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MIT 6.006 introduction to Algorithms course.
 - 💞️ I’m looking to work on my developing skills
 - 📫 How to reach me -message this number 01098718881
-- ⚡ I've learned c++,oop and git .
+- ⚡ I've learned c++,oop,git,Big O notation .
 - 🏫 I'm Still first year student 
 <!---
 Jo2410/Jo2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
