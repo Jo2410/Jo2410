@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jo ahmed khafagy 
+- 👋 Hi, I’m youssef ahmed khafagy 
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning MIT 6.006 introduction to Algorithms course.
 - 💞️ I’m looking to work on my developing skills
