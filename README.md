@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend node.js
 - 🌱 I’m currently learning backend node.js course.
 - 💞️ I’m looking to work on my developing skills
-- 📫 How to reach me -message this number 01098718881
+- 📫 How to reach me -message this gmail   megatron24100@gmail.com
 - ⚡ I've learned c++,oop,git,Big O notation,javascript .
 - 🏫 I'm second year student 
 <!---
