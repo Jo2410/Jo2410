@@ -90,4 +90,4 @@ Backend system for an e-commerce platform including users, products, orders, and
 ## Contact 📬
 - GitHub: https://github.com/Jo2410
 - LinkedIn: (https://www.linkedin.com/in/youssef-khafagy-b308632a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxaG79JpwT%2B2QuYCWO45Z0w%3D%3D)
-- Email: (jokhafagy@outlook.com)
+- Email: (megatron24100@gmail.com)
