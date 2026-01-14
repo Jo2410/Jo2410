@@ -6,12 +6,6 @@ Back-End Node.js Developer
 Express.js • NestJS • GraphQL • Socket.IO • REST APIs
 </p>
 
-<p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
-</p>
 
 ---
 
@@ -77,13 +71,6 @@ Social media backend with authentication, posts, interactions, and user manageme
 Backend system for an e-commerce platform including users, products, orders, and payments.  
 **Tech:** Node.js, NestJS, GraphQL, MongoDB (NoSQL)  
 🔗 https://github.com/Jo2410/E-Commers.git
-
----
-
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jo2410&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo2410&layout=compact&theme=dark)
 
 ---
 
