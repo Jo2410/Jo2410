@@ -9,7 +9,7 @@ Express.js • NestJS • GraphQL • Socket.IO • REST APIs
 
 ---
 
-## About Me 👨‍💻
+## About Me 
 I’m a Back-End Node.js Developer passionate about building scalable, secure, and real-time
 server-side applications.  
 I work with **Express.js** and **NestJS**, build **REST & GraphQL APIs**, and develop
@@ -20,27 +20,27 @@ I have strong experience working with **NoSQL databases**, especially **MongoDB*
 
 ## Tech Stack ⚙️
 
-### 🟢 Back-End Core
+###  Back-End Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933)
 ![Express.js](https://img.shields.io/badge/Express.js-black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E)
 
 ---
 
-### 🔁 APIs & Real-Time
+###  APIs & Real-Time
 ![REST](https://img.shields.io/badge/REST-API-green)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black)
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![NoSQL](https://img.shields.io/badge/NoSQL-database-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B)
 
 ---
 
-### 🔐 Authentication & Tools
+###  Authentication & Tools
 ![JWT](https://img.shields.io/badge/JWT-black)
 ![OAuth](https://img.shields.io/badge/OAuth-3C3C3C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
@@ -51,7 +51,7 @@ I have strong experience working with **NoSQL databases**, especially **MongoDB*
 
 ---
 
-## Projects 📌
+## Projects 
 
 ### 🔹 Sarah App
 Anonymous messaging application where users can receive messages without revealing identity.  
