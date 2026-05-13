@@ -18,7 +18,7 @@ I have strong experience working with **NoSQL databases**, especially **MongoDB*
 
 ---
 
-## Tech Stack ⚙️
+## Tech Stack 
 
 ###  Back-End Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933)
@@ -67,7 +67,7 @@ Social media backend with authentication, posts, interactions, and user manageme
 
 ---
 
-### 🔹 E-Commerce App (In Progress 🚧)
+### 🔹 E-Commerce App (In Progress )
 Backend system for an e-commerce platform including users, products, orders, and payments.  
 **Tech:** Node.js, NestJS, GraphQL, MongoDB (NoSQL)  
 🔗 https://github.com/Jo2410/E-Commers.git
